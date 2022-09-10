@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "text": "learn redux u",
+      "completed": false,
+      "id": 9,
+      "color": "red"
+    },
+    {
+      "text": "learn express js",
+      "completed": false,
+      "id": 10,
+      "color": "green"
+    },
+    {
+      "text": "learn node js",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "text": "learn mongo db",
+      "completed": false,
+      "id": 12,
+      "color": "red"
+    },
+    {
+      "text": "learn sass",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "text": "learn css",
+      "completed": false,
+      "id": 14,
+      "color": "green"
+    }
+  ]
+}

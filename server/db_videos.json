@@ -1,0 +1,379 @@
+{
+  "videos": [
+    {
+      "requestId": "y3h50axQwuYQac3QEet_f",
+      "signal": {},
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+      "tags": [
+        "vscode",
+        "tips"
+      ],
+      "likes": 70,
+      "unlikes": 70
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css"
+      ],
+      "likes": 60,
+      "unlikes": 60
+    },
+    {
+      "id": 14,
+      "title": " complete git github tutorial",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Anisul Islam",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/nvSszqsQYGQ",
+      "thumbnail": "https://img.youtube.com/vi/nvSszqsQYGQ/maxresdefault.jpg",
+      "tags": [
+        "vscode",
+        "react"
+      ],
+      "likes": 83,
+      "unlikes": 80
+    },
+    {
+      "id": 4,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "tags": [
+        "debounce",
+        "javascript",
+        "tips"
+      ],
+      "likes": 56,
+      "unlikes": 54
+    },
+    {
+      "id": 17,
+      "title": "how to become a fll stack developer router sass",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "ali Hasan",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9rO6JPPvelQin11h-W4YWnRNDFCsH-iPFqzGMCdw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/bNjE3LwZKsQ",
+      "thumbnail": "https://img.youtube.com/vi/bNjE3LwZKsQ/maxresdefault.jpg",
+      "tags": [
+        "router",
+        "sass"
+      ],
+      "likes": 40,
+      "unlikes": 40
+    },
+    {
+      "id": 5,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+      "tags": [
+        "sass",
+        "css",
+        "ui"
+      ],
+      "likes": 40,
+      "unlikes": 40
+    },
+    {
+      "id": 8,
+      "title": "dive into javascript Tutorial Bangla - Introduction to js",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Nayem Hasan",
+      "avatar": "https://yt3.ggpht.com/_laaRTCwOZ6hxLgPmjN8HnzzIlhWqyiwbD2kuofkSLx51FImoP0esGJVxyZm7oZ46Yby9MVz7g=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/9Rhawzp-Icg",
+      "thumbnail": "https://img.youtube.com/vi/9Rhawzp-Icg/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react"
+      ],
+      "likes": 10,
+      "unlikes": 10
+    },
+    {
+      "id": 11,
+      "title": "pointer tutorial using tips debounce",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Jhankar Mahbub",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s176-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/k3PcVruvZCs",
+      "thumbnail": "https://img.youtube.com/vi/k3PcVruvZCs/maxresdefault.jpg",
+      "tags": [
+        "tips",
+        "debounce"
+      ],
+      "likes": 60,
+      "unlikes": 40
+    },
+    {
+      "id": 6,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+      "tags": [
+        "react",
+        "router",
+        "javascript"
+      ],
+      "likes": 30,
+      "unlikes": 30
+    },
+    {
+      "id": 7,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 20,
+      "unlikes": 20
+    },
+    {
+      "id": 9,
+      "title": "dive into node js introduction to node js",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Nayem Hasan",
+      "avatar": "https://yt3.ggpht.com/_laaRTCwOZ6hxLgPmjN8HnzzIlhWqyiwbD2kuofkSLx51FImoP0esGJVxyZm7oZ46Yby9MVz7g=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/zA-X0fgzplc",
+      "thumbnail": "https://img.youtube.com/vi/zA-X0fgzplc/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react"
+      ],
+      "likes": 60,
+      "unlikes": 40
+    },
+    {
+      "id": 10,
+      "title": "Css introduction tutorial of css",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Nayem Hasan",
+      "avatar": "https://yt3.ggpht.com/_laaRTCwOZ6hxLgPmjN8HnzzIlhWqyiwbD2kuofkSLx51FImoP0esGJVxyZm7oZ46Yby9MVz7g=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/usrIIEDBrJU",
+      "thumbnail": "https://img.youtube.com/vi/usrIIEDBrJU/maxresdefault.jpg",
+      "tags": [
+        "css",
+        "sass"
+      ],
+      "likes": 60,
+      "unlikes": 40
+    },
+    {
+      "id": 12,
+      "title": "game hack tips using react",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Jhankar Mahbub",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s176-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/k3PcVruvZCs",
+      "thumbnail": "https://img.youtube.com/vi/ztIo841_yRI/maxresdefault.jpg",
+      "tags": [
+        "tips",
+        "js"
+      ],
+      "likes": 60,
+      "unlikes": 40
+    },
+    {
+      "id": 13,
+      "title": "path to become a web developer",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Jhankar Mahbub",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s176-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/i4laq6e_B6U",
+      "thumbnail": "https://img.youtube.com/vi/i4laq6e_B6U/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react"
+      ],
+      "likes": 70,
+      "unlikes": 70
+    },
+    {
+      "id": 15,
+      "title": "react full advanced course ui router",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Anisul Islam",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/jHDP6myBXRM",
+      "thumbnail": "https://img.youtube.com/vi/jHDP6myBXRM/maxresdefault.jpg",
+      "tags": [
+        "router",
+        "ui"
+      ],
+      "likes": 70,
+      "unlikes": 70
+    },
+    {
+      "id": 16,
+      "title": "complete frontend course css",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "Anisul Islam",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/FwmuhNTrJO4",
+      "thumbnail": "https://img.youtube.com/vi/FwmuhNTrJO4/maxresdefault.jpg",
+      "tags": [
+        "sass",
+        "tailwind"
+      ],
+      "likes": 70,
+      "unlikes": 70
+    },
+    {
+      "id": 18,
+      "title": "how to become a fll stack developer tips debounce",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "ali Hasan",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9rO6JPPvelQin11h-W4YWnRNDFCsH-iPFqzGMCdw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/Q8h7tWhHucM",
+      "thumbnail": "https://img.youtube.com/vi/Q8h7tWhHucM/maxresdefault.jpg",
+      "tags": [
+        "tips",
+        "debounce"
+      ],
+      "likes": 40,
+      "unlikes": 40
+    },
+    {
+      "id": 19,
+      "title": "frontend development with sass ui",
+      "description": "dive into javascript Tutorial Bangla - Introduction to js",
+      "author": "ali Hasan",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9rO6JPPvelQin11h-W4YWnRNDFCsH-iPFqzGMCdw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2020",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/8ia2D1aTYWc",
+      "thumbnail": "https://img.youtube.com/vi/8ia2D1aTYWc/maxresdefault.jpg",
+      "tags": [
+        "ui",
+        "sass"
+      ],
+      "likes": 40,
+      "unlikes": 40
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    }
+  ]
+}
